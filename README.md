@@ -3,5 +3,4 @@ Tutti gli esercizi sono stati fatti con emu8086 nel formato COM senza org 100h e
 # Inversione_bit.asm
 
 # Fibonacci_10.asm
-
 L'esercizio consiste sulla generazione dei primi 10 numeri della sequenza di Fibonacci usando il linguaggio asm8086
